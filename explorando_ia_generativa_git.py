@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1q94RncuD7uxMNraoQaqltyyVZiQXAmMG
 """
 
-openai_api_key = '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'
+openai_api_key = 'dados da chave'
 
 import pandas as pd
 !pip install pandas
